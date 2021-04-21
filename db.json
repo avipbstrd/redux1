@@ -1,0 +1,109 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "nama": "avip b",
+        "alamat": "planet Mars",
+        "umur": "25",
+        "nohp": "0812345678"
+      },
+      {
+        "id": 2,
+        "nama": "feby",
+        "alamat": "sukabumi",
+        "umur": "23",
+        "nohp": "0812345678"
+      },
+      {
+        "id": 3,
+        "nama": "aldi",
+        "alamat": "sukabumi",
+        "umur": "25",
+        "nohp": "0812345678"
+      },
+      {
+        "id": 4,
+        "nama": "irfan",
+        "alamat": "sukabumi",
+        "umur": "25",
+        "nohp": "0812345678"
+      },
+      {
+        "id": 5,
+        "nama": "mukhlis",
+        "alamat": "cidahu",
+        "umur": "25",
+        "nohp": "0812345678"
+      },
+      {
+        "id": 6,
+        "nama": "nani",
+        "alamat": "cianjur",
+        "umur": "25",
+        "nohp": "0812345678"
+      },
+      {
+        "id": 7,
+        "nama": "Tian",
+        "alamat": "cilengsi",
+        "umur": "25",
+        "nohp": "0812345678"
+      },
+      {
+        "id": 8,
+        "nama": "Ival",
+        "alamat": "anak pak toni",
+        "umur": "25",
+        "nohp": "0812345678"
+      },
+      {
+        "id": 9,
+        "nama": "Toni",
+        "alamat": "teu nyaho",
+        "umur": "25",
+        "nohp": "0812345678"
+      },
+      {
+        "id": 10,
+        "nama": "Lukman",
+        "alamat": "tajur",
+        "umur": "25",
+        "nohp": "0812345678"
+      },
+      {
+        "id": 11,
+        "nama": "Erik",
+        "alamat": "depan SPBU",
+        "umur": "25",
+        "nohp": "0812345678"
+      },
+      {
+        "id": 12,
+        "nama": "Yogi",
+        "alamat": "jayanti",
+        "umur": "25",
+        "nohp": "0812345678"
+      },
+      {
+        "id": 13,
+        "nama": "Oci",
+        "alamat": "papua",
+        "umur": "25",
+        "nohp": "0812345678"
+      },
+      {
+        "id": 14,
+        "nama": "Nadela",
+        "alamat": "bogor",
+        "umur": "25",
+        "nohp": "0812345678"
+      },
+      {
+        "id": 15,
+        "nama": "Rini",
+        "alamat": "ci Anjur",
+        "umur": "25",
+        "nohp": "0812345678"
+      }
+    ]
+  }
